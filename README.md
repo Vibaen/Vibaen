@@ -8,7 +8,7 @@
 ## 🔗 Connect with me
 - 📧 Email: morpheus.vibaen22@gmail.com
 - 💼 LinkedIn: <https://www.linkedin.com/in/morpheus-vibaen-j/>
-- 🧑‍💻 GitHub: <https://github.com/Morphi22>
+- 🧑‍💻 GitHub: <https://github.com/Vibaen>
 - 💬 Portfolio: <>
 
 ---
@@ -106,4 +106,4 @@ Leading youth volunteers and collaborating on initiatives to create positive com
 
 ---
 
-⭐️ If you like my work, consider following me: **@Morphi22**
+⭐️ If you like my work, consider following me: **@Vibaen**
