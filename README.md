@@ -73,9 +73,7 @@ Here are a few things I've worked on (more coming soon 👇)
 - **Lok Sabha 2024 Election Results Analysis (Data Analytics)** — data exploration + insights
 - **Full-Stack Consultation Platform (App Development)** — tele-consultation platform (MERN)
 - **Resume Data Extractor (NLP / Information Extraction)** — structured info extraction from resumes
-
-> ✅ Tip: Add repo links next to each project once they’re uploaded (or pin them on your GitHub profile).
-
+  
 ---
 
 ## 📚 Education
